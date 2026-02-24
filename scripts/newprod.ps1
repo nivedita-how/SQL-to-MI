@@ -388,3 +388,4 @@ if($DoCutover){
 } else {
     Write-Host 'ONLINE migration is running. Keep LOG backups going (job or external process) until you decide to cut over.' -ForegroundColor Yellow
 }
+# ----------------------------  file is modified to add changes----------------
